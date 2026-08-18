@@ -2,31 +2,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1829-maximum-xor-for-each-query](https://github.com/pnksco-lab/leetcode-solutions/tree/master/1829-maximum-xor-for-each-query) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1829-maximum-xor-for-each-query](https://github.com/pnksco-lab/leetcode-solutions/tree/master/1829-maximum-xor-for-each-query) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1829-maximum-xor-for-each-query](https://github.com/pnksco-lab/leetcode-solutions/tree/master/1829-maximum-xor-for-each-query) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0509-fibonacci-number](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0509-fibonacci-number](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0509-fibonacci-number](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0509-fibonacci-number](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
