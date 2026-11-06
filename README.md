@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
