@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1829-maximum-xor-for-each-query](https://github.com/pnksco-lab/leetcode-solutions/tree/master/1829-maximum-xor-for-each-query) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Queue
 |  |
 | ------- |
@@ -111,8 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Linked List
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/pnksco-lab/leetcode-solutions/tree/main/0622-design-circular-queue/) | Medium |
+## Sorting
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/pnksco-lab/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
